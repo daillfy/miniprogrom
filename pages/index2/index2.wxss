@@ -1,0 +1,12 @@
+/* pages/index2/index2.wxss */
+text{
+    color: red;
+    font-size: 48rpx;
+    border: 6rpx solid lightcoral;
+    height: 400rpx;
+    width: 600rpx;
+    display: block;
+}
+.word{
+    font-size: 48rpx;
+}

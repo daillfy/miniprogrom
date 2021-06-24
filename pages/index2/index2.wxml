@@ -1,0 +1,4 @@
+<!--原生组件的优先级最高，不能通过zindex进行修改，cover的大小默认是300*150-->
+<text>你好，欢迎使用微信小程序</text>
+<button size="mini">按钮</button>
+<span class="word">lucky dailly</span>
